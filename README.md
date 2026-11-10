@@ -14,4 +14,6 @@ Currently developing my practical cybersecurity skills alongside my studies, wit
 
 ## Projects
 
-Cybersecurity projects are coming soon.
+### [Amniora](https://github.com/HamseGuledProjects/amniora)
+
+Cybersecurity investigations and local-first training labs. Includes a local website demo, lab generation code and Runner source for macOS and Windows. Active product development has been cancelled; the sanitised portfolio is available under the MIT licence.
